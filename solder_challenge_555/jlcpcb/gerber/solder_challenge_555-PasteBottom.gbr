@@ -1,0 +1,24 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2024-09-21T16:19:46-07:00*%
+%TF.ProjectId,solder_challenge_555,736f6c64-6572-45f6-9368-616c6c656e67,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-21 16:19:46*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,0.450000X1.300000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X122320000Y-57240000D03*
+X121670000Y-57240000D03*
+X121020000Y-57240000D03*
+X120370000Y-57240000D03*
+X119720000Y-57240000D03*
+%TD*%
+M02*
