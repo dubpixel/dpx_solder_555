@@ -34,8 +34,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">555 Solder or Die/h3>
-<h3 align="center">2024 Hackfun Solder Challenge/h3>
+<h3 align="center">555 Solder or Die </h3>
+<h3 align="center">2024 Hackfun Solder Challenge </h3>
 
   <p align="center">
     project_description
@@ -92,17 +92,18 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+### Built With KiCAD
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
+<!--
+ * [![Next][Next.js]][Next-url]
+ * [![React][React.js]][React-url]
+ * [![Vue][Vue.js]][Vue-url]
+ * [![Angular][Angular.io]][Angular-url]
+ * [![Svelte][Svelte.dev]][Svelte-url]
+ * [![Laravel][Laravel.com]][Laravel-url]
+ * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+ * [![JQuery][JQuery.com]][JQuery-url]
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -160,8 +161,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+<a href="https://github.com/dubpixel/DPX_SOLDER_555/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dubpixel/DPX_SOLDER_555" alt="contrib.rocks image" />
 </a>
 
 
@@ -178,9 +179,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+#Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/dubpixel/DPX_SOLDER_555](https://github.com/dubpixel/DPX_SOLDER_555)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,12 +204,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [contributors-url]: https://github.com/dubpixel/DPX_SOLDER_555/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/gdubpixel/DPX_SOLDER_555.svg?style=for-the-badge
 [forks-url]: https://github.com/dubpixel/DPX_SOLDER_555/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/DPX_SOLDER_555.svg?style=for-the-badge
 [stars-url]: https://github.com/dubpixel/DPX_SOLDER_555/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/DPX_SOLDER_555.svg?style=for-the-badge
+[issues-url]: https://github.com/dubpixel/DPX_SOLDER_555/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/DPX_SOLDER_555.svg?style=for-the-badge
+[license-url]: https://github.com/dubpixel/DPX_SOLDER_555/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
