@@ -43,7 +43,7 @@
     <a href="https://github.com/dubpixel/DPX_SOLDER_555/tree/main/src/bom"><strong>Explore the Bom »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dubpixel/DPX_SOLDER_555/ebom/index.html">View Interactive Bom</a>
+    <a href="https://dubpixel.github.io/DPX_SOLDER_555/ebom/index.html">View Interactive Bom</a>
     ·
     <a href="https://github.com/dubpixel/DPX_SOLDER_555/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
