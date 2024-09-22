@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dubpixel/DPX_SOLDER_555">
-    <img src="images/hf_bug.png alt="Logo" width="80" height="80">
+    <img src="images/hf_bug.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">555 Solder or Die </h3>
@@ -40,7 +40,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/dubpixel/DPX_SOLDER_555/src/bom"><strong>Explore the Bom »</strong></a>
+    <a href="https://github.com/dubpixel/DPX_SOLDER_555/tree/main/src/bom"><strong>Explore the Bom »</strong></a>
     <br />
     <br />
     <a href="https://github.com/dubpixel/DPX_SOLDER_555/ebom/index.html">View Interactive Bom</a>
