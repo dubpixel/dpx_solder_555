@@ -34,8 +34,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">555 Solder or Die/h3>
-<h3 align="center">2024 Hackfun Solder Challenge/h3>
+<h3 align="center">555 Solder or Die /h3>
+<h3 align="center">2024 Hackfun Solder Challenge /h3>
 
   <p align="center">
     project_description
@@ -92,18 +92,18 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+### Built With KiCAD
 
-
-# * [![Next][Next.js]][Next-url]
-# * [![React][React.js]][React-url]
-# * [![Vue][Vue.js]][Vue-url]
-# * [![Angular][Angular.io]][Angular-url]
-# * [![Svelte][Svelte.dev]][Svelte-url]
-# * [![Laravel][Laravel.com]][Laravel-url]
-# * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-# * [![JQuery][JQuery.com]][JQuery-url]
-
+<!--
+ * [![Next][Next.js]][Next-url]
+ * [![React][React.js]][React-url]
+ * [![Vue][Vue.js]][Vue-url]
+ * [![Angular][Angular.io]][Angular-url]
+ * [![Svelte][Svelte.dev]][Svelte-url]
+ * [![Laravel][Laravel.com]][Laravel-url]
+ * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+ * [![JQuery][JQuery.com]][JQuery-url]
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
