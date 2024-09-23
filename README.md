@@ -84,6 +84,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This is a learn to solder badge made for Hack Fun by @dubpixel - 
+Hackfun is the Bushwick-based art-nerd meetup hosted every Wednesday. 
+www.hackfun.com  - siliconcarnival@gmail.com
+
 FRONT
 ![FRONT][product-front]
 
