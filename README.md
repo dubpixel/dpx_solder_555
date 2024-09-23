@@ -84,11 +84,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+FRONT
 ![FRONT][product-front]
 
-
+REAR
 ![REAR][product-rear]
+
+iBOM PCB Front
+![iBOM Front][product-pcbFront]
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -216,6 +220,7 @@ Project Link: [https://github.com/dubpixel/DPX_SOLDER_555](https://github.com/du
 [product-screenshot]: images/screenshot.png
 [product-front]: images/front.png
 [product-rear]: images/rear.png
+[product-pcbFront]: images/pcb_front.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
