@@ -81,13 +81,13 @@
     "files": [
       {
         "name": "solder_challenge_555.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 24,
-          "size_x": 939,
+          "maximized": false,
+          "pos_x": 82,
+          "pos_y": 151,
+          "size_x": 1440,
           "size_y": 875
         }
       }
