@@ -9,6 +9,7 @@ firmware/**
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.gsheet
 
 # KiCad generated files
 *.erc
@@ -20,4 +21,5 @@ firmware/**
 **/.DS_Store
 .DS_Store
 # other stuff
-*.gsheet
+
+src/bom/BOM-solder_challenge_555-dpx_v2.gsheet
