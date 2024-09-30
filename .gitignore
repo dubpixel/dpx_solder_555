@@ -19,3 +19,5 @@ firmware/**
 
 **/.DS_Store
 .DS_Store
+# other stuff
+*.gsheet

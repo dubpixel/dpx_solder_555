@@ -10,10 +10,6 @@ D4,LED,LED_D3.0mm,128.69,-47.26,180.0,top
 J1,USB_B_Micro,USB_Micro-B_Wuerth_629105150521_CircularHoles,121.02,-59.14,0.0,bottom
 J2,Conn_01x04_Socket,PinSocket_1x04_P2.54mm_Vertical,140.76,-39.24,90.0,top
 R1,1k,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,123.77,-54.34,180.0,top
-R10,0402,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,137.0975,-40.835,0.0,top
-R11,20k,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,137.0175,-50.225,180.0,top
-R12,330,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,148.825,-40.05,0.0,top
-R13,330,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,128.36,-52.38,0.0,top
 R2,20k,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,118.13,-54.49,180.0,top
 R3,330,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,133.19,-52.23,0.0,top
 R4,20k,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,140.5,-52.025,180.0,top
@@ -22,5 +18,9 @@ R6,330,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,148.12,-50.48,0.0,top
 R7,1206,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,138.47,-45.91,0.0,top
 R8,0805,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,137.895,-43.81,0.0,top
 R9,0603,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,137.6825,-42.085,0.0,top
+R10,0402,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,137.0975,-40.835,0.0,top
+R11,20k,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,137.0175,-50.225,180.0,top
+R12,330,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,148.825,-40.05,0.0,top
+R13,330,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,128.36,-52.38,0.0,top
 U1,~,DIP-8_W7.62mm_LongPads,121.0,-43.24,0.0,top
 U2,~,SOIC-8_3.9x4.9mm_P1.27mm,140.575,-55.95,0.0,top
