@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dubpixel/DPX_SOLDER_555">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" height="120">
   </a>
 
 <h3 align="center">555 Solder or Die </h3>
