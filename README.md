@@ -9,7 +9,6 @@
 -->
 
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -30,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dubpixel/DPX_SOLDER_555">
+  <a href="https://github.com/dubpixel/dpx_solder_555">
     <img src="images/logo.png" alt="Logo" height="120">
   </a>
 
@@ -40,14 +39,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/dubpixel/DPX_SOLDER_555/tree/main/src/bom"><strong>Explore the Bom »</strong></a>
+    <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/src/bom"><strong>Explore the Bom »</strong></a>
     <br />
     <br />
-    <a href="https://dubpixel.github.io/DPX_SOLDER_555/ebom/index.html">View Interactive Bom</a>
+    <a href="https://dubpixel.github.io/dpx_solder_555/ebom/index.html">View Interactive Bom</a>
     ·
-    <a href="https://github.com/dubpixel/DPX_SOLDER_555/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/dubpixel/dpx_solder_555/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/dubpixel/DPX_SOLDER_555/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/dubpixel/dpx_solder_555/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -146,7 +145,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/dubpixel/DPX_SOLDER_555/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dubpixel/dpx_solder_555/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,8 +169,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/dubpixel/DPX_SOLDER_555/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dubpixel/DPX_SOLDER_555" alt="contrib.rocks image" />
+<a href="https://github.com/dubpixel/dpx_solder_555/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_solder_555" alt="contrib.rocks image" />
 </a>
 
 
@@ -190,7 +189,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 #Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/dubpixel/DPX_SOLDER_555](https://github.com/dubpixel/DPX_SOLDER_555)
+Project Link: [https://github.com/dubpixel/dpx_solder_555](https://github.com/dubpixel/dpx_solder_555)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,16 +208,16 @@ Project Link: [https://github.com/dubpixel/DPX_SOLDER_555](https://github.com/du
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/DPX_SOLDER_555.svg?style=for-the-badge
-[contributors-url]: https://github.com/dubpixel/DPX_SOLDER_555/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/DPX_SOLDER_555.svg?style=for-the-badge
-[forks-url]: https://github.com/dubpixel/DPX_SOLDER_555/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/DPX_SOLDER_555.svg?style=for-the-badge
-[stars-url]: https://github.com/dubpixel/DPX_SOLDER_555/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/DPX_SOLDER_555.svg?style=for-the-badge
-[issues-url]: https://github.com/dubpixel/DPX_SOLDER_555/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/DPX_SOLDER_555.svg?style=for-the-badge
-[license-url]: https://github.com/dubpixel/DPX_SOLDER_555/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_solder_555.svg?style=for-the-badge
+[contributors-url]: https://github.com/dubpixel/dpx_solder_555/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_solder_555.svg?style=for-the-badge
+[forks-url]: https://github.com/dubpixel/dpx_solder_555/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_solder_555.svg?style=for-the-badge
+[stars-url]: https://github.com/dubpixel/dpx_solder_555/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_solder_555.svg?style=for-the-badge
+[issues-url]: https://github.com/dubpixel/dpx_solder_555/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_solder_555.svg?style=for-the-badge
+[license-url]: https://github.com/dubpixel/dpx_solder_555/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
