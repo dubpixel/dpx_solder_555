@@ -100,7 +100,8 @@ iBOM PCB Front
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With KiCAD
+### Built With
+* [![KiCad][KiCad.org]][KiCad-url]
 
 <!--
  * [![Next][Next.js]][Next-url]
@@ -125,13 +126,12 @@ iBOM PCB Front
 
 ### Installation
 
-1.
+1. Download...
+2. Enjoy.
+3. Repeat as Needed!
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,7 +187,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-#Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+#Joshua Fleitell - i@dubpixel.tv
+
 
 Project Link: [https://github.com/dubpixel/dpx_solder_555](https://github.com/dubpixel/dpx_solder_555)
 
@@ -240,3 +241,6 @@ Project Link: [https://github.com/dubpixel/dpx_solder_555](https://github.com/du
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[KiCad.org]: https://img.shields.io/badge/KiCad-v8.0.3-blue
+[KiCad-url]: https://kicad.org 
+
