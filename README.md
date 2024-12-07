@@ -40,13 +40,15 @@
 <h3 align="center">2024 Hackfun Solder Challengee </h3>
 
   <p align="center">
-    ...ba short description to tease interest
+    ...learn to solder down to 0402 or DIE trying!
     <br />
     <br />
     <br />
     <br />
-    <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/"><strong>Project Here! »</strong></a>
+    <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/"><strong>Project Here!</strong></a>
+     » 
     <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/src/bom"><strong>BOM Here! »</strong></a>
+     » 
     <a href="https://dubpixel.github.io/dpx_solder_555/ebom/index.html"><strong>Interactive BOM Here!</strong></a>
     <br />
     <br />
