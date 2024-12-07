@@ -1,4 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+---
+---
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -44,7 +46,7 @@
     <br />
     <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/"><strong>Project Here! » </strong></a>
     <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/src/bom"><strong>BOM Here! » </strong></a>
-    <a href="hhttps://dubpixel.github.io/dpx_solder_555/ebom/index.html"><strong>Interactive BOM Here!»</strong></a>
+    <a href="hhttps://dubpixel.github.io/dpx_solder_555/ebom/index.html"><strong>Interactive BOM Here!</strong></a>
     <br />
     <br />
     <a href="https://github.com/dubpixel/dpx_solder_555/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -80,13 +82,14 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
+    <br />
+    <br />
+    <br />
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a learn to solder badge made for Hack Fun by @dubpixel - 
+This is a learn to solder badge made for Hack Fun by @dubpixel -
+
 Hackfun is the Bushwick-based art-nerd meetup hosted every Wednesday. 
 www.hackfun.com  - siliconcarnival@gmail.com
 
