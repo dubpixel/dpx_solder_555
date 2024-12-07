@@ -1,5 +1,8 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
+---
+---
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -87,6 +90,7 @@
 ## About The Project
 
 This is a learn to solder badge made for Hack Fun by @dubpixel - 
+<br />
 Hackfun is the Bushwick-based art-nerd meetup hosted every Wednesday. 
 www.hackfun.com  - siliconcarnival@gmail.com
 
