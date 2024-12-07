@@ -34,7 +34,7 @@
   </a>
 
 <h3 align="center">555 Solder or Die </h3>
-<h3 align="center">2024 Hackfun Solder Challenge </h3>
+<h3 align="center">2024 Hackfun Solder Challengee </h3>
 
   <p align="center">
     project_description
