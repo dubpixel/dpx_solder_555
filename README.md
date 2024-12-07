@@ -39,6 +39,9 @@
   <p align="center">
     project_description
     <br />
+    <br />
+    <br />
+    <br />
     <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/"><strong>Jump to Project »</strong></a>
     <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/src/bom"><strong>Explore the Bom »</strong></a>
     <br />
