@@ -37,17 +37,14 @@
 <h3 align="center">2024 Hackfun Solder Challengee </h3>
 
   <p align="center">
-    project_description
+    ...ba short description to tease interest
     <br />
     <br />
     <br />
     <br />
-    <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/"><strong>Jump to Project »</strong></a>
-    <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/src/bom"><strong>Explore the Bom »</strong></a>
-    <br />
-    <br />
-    <a href="https://dubpixel.github.io/dpx_solder_555/ebom/index.html">View Interactive Bom</a>
-    ·
+    <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/"><strong>Project Here!»</strong></a>
+    <a href="https://github.com/dubpixel/dpx_solder_555/tree/main/src/bom"><strong>BOM Here!»</strong></a>
+    <a href="hhttps://dubpixel.github.io/dpx_solder_555/ebom/index.html"><strong>Interactive BOM Here!»</strong></a>
     <a href="https://github.com/dubpixel/dpx_solder_555/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/dubpixel/dpx_solder_555/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
